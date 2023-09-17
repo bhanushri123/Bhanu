@@ -1,4 +1,4 @@
-# Bhanu
+# New_York City Taxi fare Prediction
 1. Dataset information
 Back to Table of contents
 
